@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-!--
-**yen67/yen67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting my bachelor degree
 - 🌱 I’m currently learning content related to chemistry and engineering
